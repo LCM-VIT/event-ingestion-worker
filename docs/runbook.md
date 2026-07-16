@@ -6,3 +6,8 @@ Related services:
 - portal-api-service
 - event-ingestion-worker
 - incident-response-hub
+
+## Change Log
+
+- Added demo alert path for Company Brain timeline testing.
+
